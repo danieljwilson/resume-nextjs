@@ -237,8 +237,8 @@ export const RESUME_DATA = {
       ],
       description: (
         <>
-          <b>2021 | AI for Global Goals, in partnership with CIFAR and the University of Oxford's Deep Medicine program</b><br></br><br></br>
-          The world's largest advanced AI bootcamp, offering cutting edge course in ML/DL.<br></br><br></br>
+          <b>2021 | AI for Global Goals, in partnership with CIFAR and the University of Oxford&apos;s Deep Medicine program</b><br></br><br></br>
+          The world&apos;s largest advanced AI bootcamp, offering cutting edge course in ML/DL.<br></br><br></br>
           5% acceptance rate
         </>
       ),

@@ -161,15 +161,15 @@ export const RESUME_DATA = {
         <b>Selected Work</b>
           <li>
             Editor and producer on a number of investigative journalism projects for PBS Frontline, 
-            including the Emmy-nominated A Death in St. Augustine <a href="https://www.pbs.org/wgbh/frontline/documentary/death-in-st-augustine/?" target="_blank">[2]</a> 
-            in collaboration with the New York Times. 
+            including the Emmy-nominated A Death in St. Augustine <a href="https://www.pbs.org/wgbh/frontline/documentary/death-in-st-augustine/?" target="_blank">[2]</a>, in
+            collaboration with the New York Times. 
           </li>
           <li>
-            Editor on the initial season of The Circus <a href="https://www.nytimes.com/2016/03/03/arts/television/circus-showtime-review.html" target="_blank">[3]</a>.
+            Editor on the inaugural season of The Circus <a href="https://www.nytimes.com/2016/03/03/arts/television/circus-showtime-review.html" target="_blank">[3]</a>.
           </li>
           <li>
             Co-director and editor of the short film Alvaro <a href="https://lossur.es/short-docs/alvaro/" target="_blank">[4]</a>, 
-            produced while a fellow at UnionDocs, and which was later screened at MoMA PS1 and acquired by Criterion.
+            produced while a fellow at UnionDocs, which was later screened at MoMA PS1 and acquired by Criterion.
           </li>
         </>
       ),
@@ -192,8 +192,8 @@ export const RESUME_DATA = {
           <li>
             Works have been shown at MoMA PS1, The New Museum, the Centre Pompidou, 
             collected in the Columbia University Rare Books archive (their first app) and covered 
-            in the Wall Street Journal <a href="https://www.wsj.com/articles/selfies-and-auto-dialing-as-art-in-miami-1439999544" target="_blank">[6]</a> 
-            and the New York Times <a href="https://www.nytimes.com/2013/03/18/nyregion/cab-riders-riffs-secretly-recorded-for-the-sake-of-art.html" target="_blank">[7]</a>.
+            in the Wall Street Journal <a href="https://www.wsj.com/articles/selfies-and-auto-dialing-as-art-in-miami-1439999544" target="_blank">[6]</a> and
+            the New York Times <a href="https://www.nytimes.com/2013/03/18/nyregion/cab-riders-riffs-secretly-recorded-for-the-sake-of-art.html" target="_blank">[7]</a>.
           </li>
           <li>
             Selected for a $120k grant from the Canada Council for the Arts that paired five Canadian artists 

@@ -81,7 +81,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "University of Toronto",
-      link: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
+      link: "https://www.utoronto.ca/",
       badges: ["PhD"],
       title: "Decison Neuroscience Lab, faculty of Psychology",
       logo: "", // Add logo if available
@@ -90,9 +90,9 @@ export const RESUME_DATA = {
       description:(
         <>
           <li>
-          Developed a novel measure of the Intention-Behavior gap, and directed the collection of intensive longtitudinal data 
-          at a level of granularity unprecedented in the field. 
-          Developed predictive models of state-level gap dynamics using intensive longitudinal data and machine learning.
+            Developed a novel measure of the Intention-Behavior gap, and directed the collection of intensive longtitudinal data 
+            at a level of granularity unprecedented in the field. 
+            Developed predictive models of state-level gap dynamics using intensive longitudinal data and machine learning.
           </li>
           <li>
             Examined the effects of advertising on user affect using large-scale Twitter data and NLP. 
@@ -109,7 +109,7 @@ export const RESUME_DATA = {
     },
     {
       company: "University of Toronto",
-      link: "https://www.southparkcommons.com/",
+      link: "https://www.utoronto.ca/",
       badges: ["MA"],
       title: "Decision Neuroscience Lab, faculty of Psychology",
       logo: "", // Add logo if available
@@ -160,9 +160,9 @@ export const RESUME_DATA = {
         <>
         <b>Selected Work</b>
           <li>
-          Editor and producer on a number of investigative journalism projects for PBS Frontline, 
-          including the Emmy-nominated A Death in St. Augustine <a href="https://www.pbs.org/wgbh/frontline/documentary/death-in-st-augustine/?" target="_blank">[2]</a> 
-          in collaboration with the New York Times. 
+            Editor and producer on a number of investigative journalism projects for PBS Frontline, 
+            including the Emmy-nominated A Death in St. Augustine <a href="https://www.pbs.org/wgbh/frontline/documentary/death-in-st-augustine/?" target="_blank">[2]</a> 
+            in collaboration with the New York Times. 
           </li>
           <li>
             Editor on the initial season of The Circus <a href="https://www.nytimes.com/2016/03/03/arts/television/circus-showtime-review.html" target="_blank">[3]</a>.
@@ -174,8 +174,8 @@ export const RESUME_DATA = {
         </>
       ),
       link: {
-        label: "Instructor",
-        href: "https://jxnl.github.io/instructor/",
+        label: "Documentary Filmmaker",
+        href: "",
       },
     },
     {
@@ -207,8 +207,8 @@ export const RESUME_DATA = {
         </>
       ),
       link: {
-        label: "Stylist Shuffle",
-        href: "https://www.stitchfix.com/women/blog/inside-stitchfix/how-style-shuffle-works/",
+        label: "Artist",
+        href: "",
       },
     },
 

@@ -91,8 +91,8 @@ export const RESUME_DATA = {
         <>
           <li>
             Developed a novel measure of the Intention-Behavior gap, and directed the collection of intensive longtitudinal data 
-            at a level of granularity unprecedented in the field. 
-            Developed predictive models of state-level gap dynamics using intensive longitudinal data and machine learning.
+            - both digital trace and self report - at a level of granularity unprecedented in the field. 
+            Developed predictive machine learning models of state-level gap dynamics using this data.
           </li>
           <li>
             Examined the effects of advertising on user affect using large-scale Twitter data and NLP. 
@@ -102,7 +102,7 @@ export const RESUME_DATA = {
           </li>
           <hr style={{ height: '5px', visibility: 'hidden' }} />
 
-           🍼 <i>Took two years of parental leave during this time to care for three new research assistants</i> 
+           🍼 <i>Took two years of parental leave during this time to care for three new research assistants </i> 
           <a href="https://lh3.googleusercontent.com/pw/ABLVV87igv3u7Gd3vPT7ANNBHknrbqofTDhSjXKd8cCEoxnARYbnbM7MMf_VvkeZidT_SosYadjYmgQOUrAsvFDI4rKXRDLHBkv6zIn3ZQhH3kMO1ovS0RgGw9n10y1lg3zDKE1PIQX6MCeB0Cl6u125O1ut-tPmv2DqzqUh5wF4Wh35zNSS9_SjG60pMJ9BtJOMX51G81g1aXeJmnM50Iqx_a7a5cgTPdTqrDFVLwSjjPOHTPBZ1JdcFTwos2h9QxCY_EJVe2lo8koJzJP8n9PxfOEH-6gQuWGHZzGVy8l3IPC3wWwHAm-yH1VcHFInPkkHfDaGuDxnZZlI9IFH1yNXXxuRbrRVfiOkBMQBc9Iw4frknh2jyvKcCnkVB6dkfumcgAae2o32dA_JPDfR7sCoi5fLw7QI7ww2iLn2H9HQqTDo-xB1UFK0gIGIMxcJrdxAQ-knsNxfJ9C_mvcqkXX72_cZonm6qEEeNA5bVb4B0nkct_5TV2HEj0qa3EMph4UZFKVRfxyqJ5vvIFmdMkakM9CcdwVwct0uO_rOHqGF-ZzfsKB6gNZd7SN_mblcmZh0GGyLg_LJ23bwFkGKQiPNLZR_Jdus-0qXBuTnLfnAmcH9u0LLTW5L-Ay_2HRTddIB1w7WUnpfazuYQdxPHpWj9CktFlnmUBB_qJ5yBXB1SlZ0tkbwy2UXPR5xB1Dqz8mwyGW9h-pHGuY9rLvS7mbIhENoMurqd_nkp_dLZNtglNboXnMPDlAaHVR5td3U_ZNOtXjPGL1FbYb8qSFnyXju8Pyl4391lbKeRQeWi-HUr_kAYgh-Fi2O84xvwzAKXV7580UyWBP1WUjOJAK_ydIvuoLzyNmLxOPURC1ztA-CA7MPAx-lk1bXPHdpWprlsZ1cINU=w3008-h2158-s-no-gm?authuser=0" target="_blank">[1]</a>
         </>
       ),
@@ -116,7 +116,7 @@ export const RESUME_DATA = {
       start: "2016",
       end: "2017",
       description:
-        "I left a career split between documentary film and art to begin a PhD. Having never taken a single Psychology or Neuroscience course in my life my first year involved considerable amounts of remedial learning. I also completed a masters dissertation that looked at the contextual weighting of attributes in multi-attribute choice.",
+        "I left a career split between documentary film and art to begin a PhD. Having never taken a Psychology or Neuroscience course prior to beginning my PhD my first year involved considerable amounts of remedial learning. I also completed a masters dissertation that looked at the contextual valuation and weighting of attributes in multi-attribute choice.",
     },
     
   ],
@@ -158,17 +158,17 @@ export const RESUME_DATA = {
       techStack: ["PBS", "Showtime", "Criterion", "A&E", "Discovery", "Viceland"],
       description:(
         <>
-        <b>Selected Work</b>
+        <b>Selection</b>
           <li>
             Editor and producer on a number of investigative journalism projects for PBS Frontline, 
-            including the Emmy-nominated A Death in St. Augustine <a href="https://www.pbs.org/wgbh/frontline/documentary/death-in-st-augustine/?" target="_blank">[2]</a>, in
+            including the Emmy-nominated <i>A Death in St. Augustine</i> <a href="https://www.pbs.org/wgbh/frontline/documentary/death-in-st-augustine/?" target="_blank">[2]</a>, in
             collaboration with the New York Times. 
           </li>
           <li>
             Editor on the inaugural season of The Circus <a href="https://www.nytimes.com/2016/03/03/arts/television/circus-showtime-review.html" target="_blank">[3]</a>.
           </li>
           <li>
-            Co-director and editor of the short film Alvaro <a href="https://lossur.es/short-docs/alvaro/" target="_blank">[4]</a>, 
+            Co-director and editor of the short film <i>Alvaro</i> <a href="https://lossur.es/short-docs/alvaro/" target="_blank">[4]</a>, 
             produced while a fellow at UnionDocs, which was later screened at MoMA PS1 and acquired by Criterion.
           </li>
         </>
@@ -183,10 +183,10 @@ export const RESUME_DATA = {
       techStack: ["performance", "video", "vr", "multi-media", "web"],
       description:(
         <>
-        <b>Selected Work</b>
+        <b>Selection</b>
           <li>
-            Co-founder of the minutiae app. An anti-social media art project that was launched 
-            on a whim in collaboration with ustwo and has now developed a dedicated community 
+            Co-founder of the minutiae app. An anti-social media art project launched 
+            on a whim in collaboration with ustwo which has now developed a dedicated community 
             of participants <a href="https://www.wired.com/2017/05/minutiae-curious-app-captures-unfiltered-life/" target="_blank">[5]</a>.
           </li>
           <li>
@@ -197,7 +197,7 @@ export const RESUME_DATA = {
           </li>
           <li>
             Selected for a $120k grant from the Canada Council for the Arts that paired five Canadian artists 
-            with five Canadian scientists. Developed a VR experience where you explored the reciprocal space of a lysozyme molecule.
+            with five Canadian scientists. Developed a VR experience where the audience explored the reciprocal space of a lysozyme molecule.
           </li>
           <li>
             Selected as a resident at NEW INC. <a href="https://www.newinc.org/" target="_blank">[8]</a>, 

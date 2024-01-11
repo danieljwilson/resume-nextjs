@@ -10,7 +10,7 @@ export const RESUME_DATA = {
   about:
     "Decision neuroscience, cognitive psychology & computational social science",
   summary:
-    "I am currently completing my PhD examing the Intention-Behavior gap through multi-modal analysis of intensive longitudinal data collected from self-report and digital trace data using smartphones and wearables.",
+    "I am currently completing my PhD examing the Intention-Behavior Gap through multi-modal analysis of intensive longitudinal data collected from self-report and digital trace data using smartphones and wearables.",
   avatarUrl: "https://pbs.twimg.com/profile_images/1743364953304637440/0hJHcJUK_400x400.jpg",
   personalWebsiteUrl: "https://www.danieljwilson.com",
   contact: {
@@ -83,14 +83,14 @@ export const RESUME_DATA = {
       company: "University of Toronto",
       link: "https://www.utoronto.ca/",
       badges: ["PhD"],
-      title: "Decison Neuroscience Lab, faculty of Psychology",
+      title: "Decison Neuroscience Lab, Faculty of Psychology",
       logo: "", // Add logo if available
       start: "2017",
       end: "2024🍼",
       description:(
         <>
           <li>
-            Developed a novel measure of the Intention-Behavior gap, and directed the collection of novel intensive longitudinal data 
+            Developed a novel measure of the Intention-Behavior Gap, and directed the collection of novel intensive longitudinal data 
             - both digital trace and self report - with a breadth and level of granularity atypical for the field. 
             Developed predictive machine learning models of state-level gap dynamics using this data.
           </li>
@@ -98,12 +98,12 @@ export const RESUME_DATA = {
             Examined the effects of online advertising on user affect using large-scale Twitter data and NLP. 
           </li>
           <li>
-            Ran a fMRI neuroimging study looking at the effects of mindset on food preference and healthy eating.
+            Ran a fMRI neuroimaging study looking at the effects of mindset on food preference and healthy eating.
           </li>
           <hr style={{ height: '5px', visibility: 'hidden' }} />
 
            🍼 <i>Took two years of parental leave during this time to care for three new research assistants </i> 
-          <a href="https://lh3.googleusercontent.com/pw/ABLVV87igv3u7Gd3vPT7ANNBHknrbqofTDhSjXKd8cCEoxnARYbnbM7MMf_VvkeZidT_SosYadjYmgQOUrAsvFDI4rKXRDLHBkv6zIn3ZQhH3kMO1ovS0RgGw9n10y1lg3zDKE1PIQX6MCeB0Cl6u125O1ut-tPmv2DqzqUh5wF4Wh35zNSS9_SjG60pMJ9BtJOMX51G81g1aXeJmnM50Iqx_a7a5cgTPdTqrDFVLwSjjPOHTPBZ1JdcFTwos2h9QxCY_EJVe2lo8koJzJP8n9PxfOEH-6gQuWGHZzGVy8l3IPC3wWwHAm-yH1VcHFInPkkHfDaGuDxnZZlI9IFH1yNXXxuRbrRVfiOkBMQBc9Iw4frknh2jyvKcCnkVB6dkfumcgAae2o32dA_JPDfR7sCoi5fLw7QI7ww2iLn2H9HQqTDo-xB1UFK0gIGIMxcJrdxAQ-knsNxfJ9C_mvcqkXX72_cZonm6qEEeNA5bVb4B0nkct_5TV2HEj0qa3EMph4UZFKVRfxyqJ5vvIFmdMkakM9CcdwVwct0uO_rOHqGF-ZzfsKB6gNZd7SN_mblcmZh0GGyLg_LJ23bwFkGKQiPNLZR_Jdus-0qXBuTnLfnAmcH9u0LLTW5L-Ay_2HRTddIB1w7WUnpfazuYQdxPHpWj9CktFlnmUBB_qJ5yBXB1SlZ0tkbwy2UXPR5xB1Dqz8mwyGW9h-pHGuY9rLvS7mbIhENoMurqd_nkp_dLZNtglNboXnMPDlAaHVR5td3U_ZNOtXjPGL1FbYb8qSFnyXju8Pyl4391lbKeRQeWi-HUr_kAYgh-Fi2O84xvwzAKXV7580UyWBP1WUjOJAK_ydIvuoLzyNmLxOPURC1ztA-CA7MPAx-lk1bXPHdpWprlsZ1cINU=w3008-h2158-s-no-gm?authuser=0" target="_blank">[1]</a>
+          <a href="https://www.danieljwilson.com/media/images/kids.jpg" target="_blank">[1]</a>
         </>
       ),
     },
@@ -111,7 +111,7 @@ export const RESUME_DATA = {
       company: "University of Toronto",
       link: "https://www.utoronto.ca/",
       badges: ["MA"],
-      title: "Decision Neuroscience Lab, faculty of Psychology",
+      title: "Decision Neuroscience Lab, Faculty of Psychology",
       logo: "", // Add logo if available
       start: "2016",
       end: "2017",
@@ -158,7 +158,7 @@ export const RESUME_DATA = {
       techStack: ["PBS", "Showtime", "Criterion", "A&E", "Discovery", "Viceland"],
       description:(
         <>
-        <b>Selection</b>
+        <b>Selected Work</b>
           <li>
             Editor and producer on a number of investigative journalism projects for PBS Frontline, 
             including the Emmy-nominated <i>A Death in St. Augustine</i> <a href="https://www.pbs.org/wgbh/frontline/documentary/death-in-st-augustine/?" target="_blank">[2]</a>, in
@@ -183,10 +183,10 @@ export const RESUME_DATA = {
       techStack: ["performance", "video", "vr", "multi-media", "web"],
       description:(
         <>
-        <b>Selection</b>
+        <b>Selected Work</b>
           <li>
             Co-founder of the minutiae app. An anti-social media art project launched 
-            on a whim in collaboration with ustwo which has now developed a dedicated community 
+            on a whim in collaboration with <i>ustwo</i> which has now developed a dedicated community 
             of participants <a href="https://www.wired.com/2017/05/minutiae-curious-app-captures-unfiltered-life/" target="_blank">[5]</a>.
           </li>
           <li>

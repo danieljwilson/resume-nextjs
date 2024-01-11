@@ -190,7 +190,7 @@ export const RESUME_DATA = {
             of participants <a href="https://www.wired.com/2017/05/minutiae-curious-app-captures-unfiltered-life/" target="_blank">[5]</a>.
           </li>
           <li>
-            Works have been shown at MoMA PS1, The New Museum, the Pompideau Center, 
+            Works have been shown at MoMA PS1, The New Museum, the Centre Pompidou, 
             collected in the Columbia University Rare Books archive (their first app) and covered 
             in the Wall Street Journal <a href="https://www.wsj.com/articles/selfies-and-auto-dialing-as-art-in-miami-1439999544" target="_blank">[6]</a> 
             and the New York Times <a href="https://www.nytimes.com/2013/03/18/nyregion/cab-riders-riffs-secretly-recorded-for-the-sake-of-art.html" target="_blank">[7]</a>.

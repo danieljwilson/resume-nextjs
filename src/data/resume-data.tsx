@@ -90,15 +90,15 @@ export const RESUME_DATA = {
       description:(
         <>
           <li>
-            Developed a novel measure of the Intention-Behavior gap, and directed the collection of intensive longtitudinal data 
-            - both digital trace and self report - at a level of granularity unprecedented in the field. 
+            Developed a novel measure of the Intention-Behavior gap, and directed the collection of novel intensive longitudinal data 
+            - both digital trace and self report - with a breadth and level of granularity atypical for the field. 
             Developed predictive machine learning models of state-level gap dynamics using this data.
           </li>
           <li>
-            Examined the effects of advertising on user affect using large-scale Twitter data and NLP. 
+            Examined the effects of online advertising on user affect using large-scale Twitter data and NLP. 
           </li>
           <li>
-            Ran a neuroimging study looking at the effects of mindset on food preference.
+            Ran a fMRI neuroimging study looking at the effects of mindset on food preference and healthy eating.
           </li>
           <hr style={{ height: '5px', visibility: 'hidden' }} />
 
